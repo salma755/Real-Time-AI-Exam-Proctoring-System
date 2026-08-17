@@ -3,6 +3,9 @@ An automated, computer vision-based proctoring system designed to monitor candid
 The system integrates MediaPipe, YOLOv8
 
 ---
+<img width="762" height="552" alt="image" src="https://github.com/user-attachments/assets/b912a7f2-879e-4ca6-aa67-30e501973484" />
+
+Hands remain classified as Visible based on The 'benefit-of-the-doubt' posture logic correctly maintains hands posture, while camera occlusion is flagged as Face: Out of Frame to update the risk score
 
 ## Technical Stack & Algorithms
 
