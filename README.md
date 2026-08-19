@@ -544,6 +544,3 @@ This project demonstrates practical implementation of:
 
 ---
 
-## 📄 License
-
-This project is intended for educational and research purposes. Add an appropriate open-source license if you intend to distribute the code under specific reuse terms.
